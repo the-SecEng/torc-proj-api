@@ -1,0 +1,6 @@
+@Torc_Project___API_HostAddress = http://localhost:5191
+
+GET {{Torc_Project___API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
